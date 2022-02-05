@@ -5,9 +5,10 @@ body{
   text-align: center;
 }
 
-h2{
+h1{
   color: hsl(218, 44%, 22%);
   font-family: 'Outfit', sans-serif;
+  font-size: 24px;
 }
 
 p{
